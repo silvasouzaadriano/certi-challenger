@@ -63,6 +63,8 @@ To clone and run this application, you'll need [Docker](https://docs.docker.com/
 
   $ git clone https://github.com/silvasouzaadriano/certi-challenger.git
 
+  $ git checkout developer (Note that this step is only necessary if there is a pending pull request on GitHub)
+
 # Go into the repository
 
   $ cd certi-challenger
